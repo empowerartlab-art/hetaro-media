@@ -1,6 +1,6 @@
 # hetaro-media
 
-ヘタ郎（@hetaro.golf2026 / X @Hetarogolf）の投稿画像の置き場所です。**公開リポジトリ**です。
+ヘタ郎（@hetarou.golf2026 / X @Hetarogolf）の投稿画像の置き場所です。**公開リポジトリ**です。
 
 - 投稿画像だけを `ig/` に置きます（それ以外のファイル・秘密の値は置かない）
 - GitHub Pages で `https://empowerartlab-art.github.io/hetaro-media/ig/<ファイル名>` として公開され、
